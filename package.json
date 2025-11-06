@@ -1,0 +1,13 @@
+{
+  "name": "teste_k2",
+  "version": "1.0.0",
+  "description": "Automaçao do front e back-end do Serverest",
+  "license": "ISC",
+  "author": "Marcus Vinicius B de Souza",
+  "type": "commonjs",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
