@@ -1,11 +1,5 @@
 # 🤖 Teste de Automação Serverest
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/Tecnologia-Cypress-brightgreen](https://www.google.com/search?q=https://img.shields.io/badge/Tecnologia-Cypress-brightgreen)" alt="Cypress Badge"\>
-\<img src="[https://img.shields.io/badge/Linguagem-JavaScript-yellow](https://www.google.com/search?q=https://img.shields.io/badge/Linguagem-JavaScript-yellow)" alt="JavaScript Badge"\>
-\<img src="[https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue](https://www.google.com/search?q=https://img.shields.io/badge/Status-Em%2520Desenvolvimento-blue)" alt="Status Badge"\>
-\</p\>
-
 ## 📜 Descrição do Projeto
 
 Este repositório contém um conjunto de testes de automação de API e WEB do Serverest, desenvolvidos para validar fluxos e funcionalidades específicas. O projeto utiliza o **Cypress**, uma das ferramentas mais populares e eficientes para testes End-to-End (E2E) e de integração, garantindo a qualidade e estabilidade do software.
